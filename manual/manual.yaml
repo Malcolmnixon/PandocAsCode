@@ -1,0 +1,14 @@
+input-files:
+- ${.}/title.txt
+- ${.}/01-introduction.md
+- ${.}/02-prerequisites.md
+- ${.}/03-file-layout.md
+- ${.}/04-formatting.md
+
+table-of-contents: true
+
+number-sections: true
+
+resource-path:
+- ${.}
+- ${.}/assets

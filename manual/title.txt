@@ -1,0 +1,6 @@
+---
+title: Pandoc-as-Code
+author: Malcolm Nixon
+rights:  Creative Commons 1.0 Universal (CC0 1.0)
+language: en-US
+...
