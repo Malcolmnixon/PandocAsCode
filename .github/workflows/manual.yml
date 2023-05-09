@@ -19,6 +19,7 @@ jobs:
         with:
           args: >-
             --defaults=manual/manual.yaml
+            --write=context
             --output=manual.pdf
 
       - name: Archive
